@@ -1,0 +1,25 @@
+# ninja log v7
+27	135	8051505389923348	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/main.c.o	fc329b2fc1814aef
+136	321	8051505391009306	Y:/project/Magic_Conch/AVR/Magic_Conch/out/Magic_Conch/default.elf	ed249b2a9bc56150
+57	245	8049626404069934	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/spi.c.o	d337a4e47c3b4827
+44	240	8049626681643433	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/usart_interrupt.c.o	2618713684932307
+241	361	8049626683598195	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/vs1003.c.o	8837dc2483efe705
+51	523	8049633510789147	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/ff.c.o	6c24a6ed8584e6ba
+41	370	8049633510679443	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/diskio.c.o	99838b91c4bf2821
+66	432	8049633510938754	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/mmc_avr_spi.c.o	e2a4efac91541ec4
+55	365	8049633510819065	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/ffunicode_avr.c.o	5f06b512de840a82
+149	671	8052067867547320	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/diskio.c.o	20a5b9bd1300724
+169	813	8052067867751876	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/spi.c.o	2bf9f31904419cdb
+157	831	8052067867622247	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/ffunicode_avr.c.o	d4fc5e78437cc3cb
+162	901	8052067867672089	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/main.c.o	fc37f3e06a710621
+165	906	8052067867711978	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/mmc_avr_spi.c.o	2997e536a3a51c13
+153	996	8052067867592300	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/ff.c.o	36f55c51fc4eb129
+672	1006	8052067872773596	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/usart_interrupt.c.o	c484b0805aa18967
+813	1070	8052067874189813	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/vs1003.c.o	2e0656e0f3ed98fb
+1070	1734	8052067876752953	Y:/project/Magic_Conch/AVR/Magic_Conch/out/Magic_Conch/default.elf	ed249b2a9bc56150
+83	3184	8052132508066786	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/main.c.o	fc37f3e06a710621
+3185	4301	8052132539093620	Y:/project/Magic_Conch/AVR/Magic_Conch/out/Magic_Conch/default.elf	ed249b2a9bc56150
+30	144	8052133332632709	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/main.c.o	fc37f3e06a710621
+145	461	8052133333778393	Y:/project/Magic_Conch/AVR/Magic_Conch/out/Magic_Conch/default.elf	ed249b2a9bc56150
+30	144	8052134840532946	CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/main.c.o	fc37f3e06a710621
+144	406	8052134841676671	Y:/project/Magic_Conch/AVR/Magic_Conch/out/Magic_Conch/default.elf	ed249b2a9bc56150

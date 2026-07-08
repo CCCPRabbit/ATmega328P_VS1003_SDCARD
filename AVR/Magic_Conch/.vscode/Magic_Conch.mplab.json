@@ -1,0 +1,80 @@
+{
+    "version": "1.9",
+    "configurations": [
+        {
+            "name": "default",
+            "id": "",
+            "device": "ATmega328P",
+            "imagePath": "./out/Magic_Conch/default.elf",
+            "toolProperties": "default-tool-base",
+            "tool": "Simulator",
+            "packs": [
+                {
+                    "name": "ATmega_DFP",
+                    "vendor": "Microchip",
+                    "version": "3.6.299"
+                }
+            ],
+            "fileSet": "default",
+            "toolchain": "default-AVR-GCC",
+            "userVariables": "default-uservariables"
+        }
+    ],
+    "propertyGroups": [
+        {
+            "name": "toolchain (extends default-AVR-GCC)",
+            "extend": "default-AVR-GCC",
+            "provider": "microchip.toolchains:avr-gcc@7.3.0",
+            "properties": {}
+        },
+        {
+            "name": "toolchain (extends default-AVR-GCC)_1",
+            "extend": "default-AVR-GCC",
+            "provider": "microchip.toolchains:avr-gcc@7.3.0",
+            "properties": {}
+        },
+        {
+            "name": "default-uservariables",
+            "type": "uservariables",
+            "properties": {}
+        },
+        {
+            "name": "toolchain AVR-GCC 7.3.0",
+            "extend": "",
+            "type": "toolchain",
+            "provider": "microchip.toolchains:avr-gcc@7.3.0",
+            "properties": {}
+        },
+        {
+            "name": "default-AVR-GCC",
+            "type": "toolchain",
+            "provider": "microchip.toolchains:avr-gcc@7.3.0",
+            "properties": {
+                "global.external-ram-check": true,
+                "compiler.preprocessor-macros": [
+                    "DRV_MMC=0",
+                    "F_CPU=8000000UL",
+                    "_USE_WRITE"
+                ],
+                "compiler.optimization-level": "-Os",
+                "compiler++.optimization-level": "-O1"
+            }
+        },
+        {
+            "name": "default-tool-base",
+            "type": "tool",
+            "properties": {}
+        }
+    ],
+    "fileSets": [
+        {
+            "name": "default",
+            "files": [
+                {
+                    "include": "**/*",
+                    "exclude": "**/@(build|_build|out|cmake|.vscode)/**/*"
+                }
+            ]
+        }
+    ]
+}

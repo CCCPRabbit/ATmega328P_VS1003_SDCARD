@@ -1,0 +1,4 @@
+Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir
+Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/Magic_Conch_default_image_Pl3_RbB_.dir
+Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/edit_cache.dir
+Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,50 @@
+[
+{
+  "directory": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default",
+  "command": "C:\\Users\\USER\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -DDRV_MMC=0 -DF_CPU=8000000UL -D_USE_WRITE -D__ATmega328P__ -Ddefault=default -IC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/include -x c -fdiagnostics-color=always -g -gdwarf-2 -mmcu=atmega328p -BC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/gcc/dev/atmega328p -x c -c -funsigned-char -funsigned-bitfields -Os -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\Magic_Conch_default_default_AVR_GCC_compile.dir\\Y_\\project\\Magic_Conch\\AVR\\Magic_Conch\\diskio.c.o -c Y:\\project\\Magic_Conch\\AVR\\Magic_Conch\\diskio.c",
+  "file": "Y:/project/Magic_Conch/AVR/Magic_Conch/diskio.c",
+  "output": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/diskio.c.o"
+},
+{
+  "directory": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default",
+  "command": "C:\\Users\\USER\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -DDRV_MMC=0 -DF_CPU=8000000UL -D_USE_WRITE -D__ATmega328P__ -Ddefault=default -IC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/include -x c -fdiagnostics-color=always -g -gdwarf-2 -mmcu=atmega328p -BC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/gcc/dev/atmega328p -x c -c -funsigned-char -funsigned-bitfields -Os -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\Magic_Conch_default_default_AVR_GCC_compile.dir\\Y_\\project\\Magic_Conch\\AVR\\Magic_Conch\\ff.c.o -c Y:\\project\\Magic_Conch\\AVR\\Magic_Conch\\ff.c",
+  "file": "Y:/project/Magic_Conch/AVR/Magic_Conch/ff.c",
+  "output": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/ff.c.o"
+},
+{
+  "directory": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default",
+  "command": "C:\\Users\\USER\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -DDRV_MMC=0 -DF_CPU=8000000UL -D_USE_WRITE -D__ATmega328P__ -Ddefault=default -IC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/include -x c -fdiagnostics-color=always -g -gdwarf-2 -mmcu=atmega328p -BC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/gcc/dev/atmega328p -x c -c -funsigned-char -funsigned-bitfields -Os -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\Magic_Conch_default_default_AVR_GCC_compile.dir\\Y_\\project\\Magic_Conch\\AVR\\Magic_Conch\\ffunicode_avr.c.o -c Y:\\project\\Magic_Conch\\AVR\\Magic_Conch\\ffunicode_avr.c",
+  "file": "Y:/project/Magic_Conch/AVR/Magic_Conch/ffunicode_avr.c",
+  "output": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/ffunicode_avr.c.o"
+},
+{
+  "directory": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default",
+  "command": "C:\\Users\\USER\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -DDRV_MMC=0 -DF_CPU=8000000UL -D_USE_WRITE -D__ATmega328P__ -Ddefault=default -IC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/include -x c -fdiagnostics-color=always -g -gdwarf-2 -mmcu=atmega328p -BC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/gcc/dev/atmega328p -x c -c -funsigned-char -funsigned-bitfields -Os -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\Magic_Conch_default_default_AVR_GCC_compile.dir\\Y_\\project\\Magic_Conch\\AVR\\Magic_Conch\\main.c.o -c Y:\\project\\Magic_Conch\\AVR\\Magic_Conch\\main.c",
+  "file": "Y:/project/Magic_Conch/AVR/Magic_Conch/main.c",
+  "output": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/main.c.o"
+},
+{
+  "directory": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default",
+  "command": "C:\\Users\\USER\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -DDRV_MMC=0 -DF_CPU=8000000UL -D_USE_WRITE -D__ATmega328P__ -Ddefault=default -IC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/include -x c -fdiagnostics-color=always -g -gdwarf-2 -mmcu=atmega328p -BC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/gcc/dev/atmega328p -x c -c -funsigned-char -funsigned-bitfields -Os -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\Magic_Conch_default_default_AVR_GCC_compile.dir\\Y_\\project\\Magic_Conch\\AVR\\Magic_Conch\\mmc_avr_spi.c.o -c Y:\\project\\Magic_Conch\\AVR\\Magic_Conch\\mmc_avr_spi.c",
+  "file": "Y:/project/Magic_Conch/AVR/Magic_Conch/mmc_avr_spi.c",
+  "output": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/mmc_avr_spi.c.o"
+},
+{
+  "directory": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default",
+  "command": "C:\\Users\\USER\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -DDRV_MMC=0 -DF_CPU=8000000UL -D_USE_WRITE -D__ATmega328P__ -Ddefault=default -IC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/include -x c -fdiagnostics-color=always -g -gdwarf-2 -mmcu=atmega328p -BC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/gcc/dev/atmega328p -x c -c -funsigned-char -funsigned-bitfields -Os -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\Magic_Conch_default_default_AVR_GCC_compile.dir\\Y_\\project\\Magic_Conch\\AVR\\Magic_Conch\\spi.c.o -c Y:\\project\\Magic_Conch\\AVR\\Magic_Conch\\spi.c",
+  "file": "Y:/project/Magic_Conch/AVR/Magic_Conch/spi.c",
+  "output": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/spi.c.o"
+},
+{
+  "directory": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default",
+  "command": "C:\\Users\\USER\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -DDRV_MMC=0 -DF_CPU=8000000UL -D_USE_WRITE -D__ATmega328P__ -Ddefault=default -IC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/include -x c -fdiagnostics-color=always -g -gdwarf-2 -mmcu=atmega328p -BC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/gcc/dev/atmega328p -x c -c -funsigned-char -funsigned-bitfields -Os -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\Magic_Conch_default_default_AVR_GCC_compile.dir\\Y_\\project\\Magic_Conch\\AVR\\Magic_Conch\\usart_interrupt.c.o -c Y:\\project\\Magic_Conch\\AVR\\Magic_Conch\\usart_interrupt.c",
+  "file": "Y:/project/Magic_Conch/AVR/Magic_Conch/usart_interrupt.c",
+  "output": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/usart_interrupt.c.o"
+},
+{
+  "directory": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default",
+  "command": "C:\\Users\\USER\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -DDRV_MMC=0 -DF_CPU=8000000UL -D_USE_WRITE -D__ATmega328P__ -Ddefault=default -IC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/include -x c -fdiagnostics-color=always -g -gdwarf-2 -mmcu=atmega328p -BC:/Users/USER/.mchp_packs/Microchip/ATmega_DFP/3.6.299/gcc/dev/atmega328p -x c -c -funsigned-char -funsigned-bitfields -Os -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\Magic_Conch_default_default_AVR_GCC_compile.dir\\Y_\\project\\Magic_Conch\\AVR\\Magic_Conch\\vs1003.c.o -c Y:\\project\\Magic_Conch\\AVR\\Magic_Conch\\vs1003.c",
+  "file": "Y:/project/Magic_Conch/AVR/Magic_Conch/vs1003.c",
+  "output": "Y:/project/Magic_Conch/AVR/Magic_Conch/_build/Magic_Conch/default/CMakeFiles/Magic_Conch_default_default_AVR_GCC_compile.dir/Y_/project/Magic_Conch/AVR/Magic_Conch/vs1003.c.o"
+}
+]
